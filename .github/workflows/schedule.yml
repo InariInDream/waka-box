@@ -15,3 +15,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 4cf233f18c9a5473c5f0afc002e8cda6
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_LINES_OF_CODE : "False"
+          SHOW_PROFILE_VIEWS : "False"
+          SHOW_LANGUAGE_PER_REPO : "False"
+          SHOW_LOC_CHART : "False"
+          SHOW_SHORT_INFO : "False"
+          SHOW_PROJECTS : "False"
+          SHOW_TOTAL_CODE_TIME : "False"
+          SHOW_TITLE : "True"
